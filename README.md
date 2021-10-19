@@ -1,6 +1,4 @@
-# RugbyApp
-=======
-# RugbyAgentsApp PWA
+# RugbyApplication PWA
 
 
 <h2> Plataforma de Rugby donde se registran Jugadores y Clubes para sus fichajes y actividades.</h2>
