@@ -1,0 +1,17 @@
+export const puestosList = [
+  "1 Left prop",
+  "2 Hooker",
+  "3 Right prop",
+  "4 Lock",
+  "5 Lock",
+  "6 Flanker",
+  "7 Flanker",
+  "8 Number 8",
+  "9 Scrum-half",
+  "10 Fly-hall",
+  "11 Wing",
+  "12 Center",
+  "13 Center",
+  "14 Wing",
+  "15 Fullback",
+];

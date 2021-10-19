@@ -1,0 +1,13 @@
+[id^="widget"] {
+  min-height: 300px;
+}
+
+.MuiInputBase-root.Mui-disabled {
+  color: rgb(0 0 0 / 70%) !important;
+  margin-top: -1px;
+}
+
+.MuiFormLabel-root.Mui-disabled {
+  color: rgb(37 45 34) !important;
+  font-weight: bold;
+}
