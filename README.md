@@ -1,15 +1,15 @@
 # RugbyApplication PWA
 
-
 <h2> Plataforma de Rugby donde se registran Jugadores y Clubes para sus fichajes y actividades.</h2>
 
-
 Demo:
+
 <h3> https://rugbyagentsapp.web.app/ </h3>
 
 Usuario de Prueba
-user: prueba@yopmail.com
- psw: pruebaprueba
+
+<p>user: prueba@yopmail.com </p>
+<p>password: pruebaprueba</p>
 
 <h4> Web (FRONT)</h4>
 
@@ -23,16 +23,15 @@ PWA ---------------- (Progressive Web App)</br>
 Apollo React Hooks - (Ganchos como: useQuery, useMutation)</br>
 Service Worker------ </br>
 
- 
 <h4> Functions API (BACK)</h4>
 
 ApolloServer express - (servidor GraphQL de código abierto)</br>
-Stripe --------------  (realizar pagos online, suscripciones)</br>
+Stripe -------------- (realizar pagos online, suscripciones)</br>
 GraphQL -------------- (lenguaje de consulta para API)</br>
 Firebase ------------- (Realtime database, Firesote , admin , functions)</br>
 Node.js 12 ----------- (entorno de ejecución)</br>
 
-Aqui unas capturas de pantallas: 
+Aqui unas capturas de pantallas:
 
 <h5>Home / Inicio Session / Registro</h5>
 
@@ -90,6 +89,4 @@ Aqui unas capturas de pantallas:
 
 <img src="https://rugbyagents.s3.eu-west-3.amazonaws.com/utils/29-menu+lateral.png">
 
-
 NO FINALIZADA
-
