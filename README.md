@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RugbyApp
 =======
 # RugbyAgentsApp PWA
@@ -96,4 +95,3 @@ Aqui unas capturas de pantallas:
 
 NO FINALIZADA
 
->>>>>>> 2d8144f3af3a7bbabbff5b8978ceb2dce9a0abf6
