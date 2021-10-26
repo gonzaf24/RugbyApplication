@@ -21,6 +21,7 @@ Webpack ------------ (herramienta de compilación)</br>
 Babel -------------- (compilador de JavaScript)</br>
 PWA ---------------- (Progressive Web App)</br>
 Apollo React Hooks - (Ganchos como: useQuery, useMutation)</br>
+RactJS-------------- </br>
 Service Worker------ </br>
 
 <h4> Functions API (BACK)</h4>
